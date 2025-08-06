@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-s^x_u!itekxd=@a3o3zv4d%hw$j6d#2v358wgltxl8rc(-^t&p
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-
+RESTURANR_NAME= "Gourmet garden"
 
 # Application definition
 
