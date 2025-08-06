@@ -4,6 +4,6 @@ from django.shortcuts import render
 # Create your views here.
 def homepage(request):
     context={
-        "resturant_name":settings.RESTURANT_NAME
+        "restaurant_name":settings.RESTAURANT_NAME
     }
-    return render(request,"home/index.html",context)
+    return render(request, "home/index.html", context)
